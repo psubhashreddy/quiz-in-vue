@@ -13,6 +13,6 @@ First install npm in your machine, can be found at ``` https://www.npmjs.com/get
  
  # Libraries used in 
  Uses bootstrap vue for look and feel ``` npm install bootstrap-vue bootstrap ``` from ``` https://bootstrap-vue.js.org/docs/ ```
- Uses lodash for javascript utilities ``` npm i lodash ``` from ``` https://github.com/lodash/lodash ```
+ Uses lodash for javascript utilities ``` npm install lodash ``` from ``` https://github.com/lodash/lodash ```
  Uses ``` http://opentdb.com ``` api for getting quiz questions
  
